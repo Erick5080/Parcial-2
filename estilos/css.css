@@ -1,0 +1,57 @@
+.cuerpo{
+    font-family:Georgia, 'Times New Roman', Times, serif ;
+    margin: 0;
+    padding: 0;
+    background-color: cornflowerblue;
+}
+.header{
+    background-color: antiquewhite;
+    padding: 35px 20px;
+    margin: 0;
+}
+.navbar{
+    width: 97.2%;
+    max-width: 1020px;
+    padding: 0 15px;
+    margin: 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: whitesmoke;
+}
+ul{
+    padding: 5;
+    margin: 0;
+    list-style: none;
+    display: flex;
+}
+
+li{
+    padding: 3px 10px;
+}
+.centrado{
+    text-align: center;
+}
+.JusticaTxT{
+    text-align: justify;
+}
+.contencion{
+    margin: 0;
+    padding: 10px;
+    border: 1px solid black;
+}
+.footer{
+    padding: 10px 0;
+    width: 100%;
+    margin: 0%;
+    background-color: wheat;
+    color: black;
+    text-align: center;
+   
+}
+.contenido{
+    padding: 0;
+    margin: 50px auto 0;
+    width: 100%;
+    max-width: 1020px; 
+}
